@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+body {
+    width: 100%;
+    background-color: black;
+    /* overflow-x: auto; */
+}
+nav {
+    background-color: grey;
+}
+.navbar-brand {
+    color: rgb(72, 51, 55);
+    font-weight: 900;
+    text-shadow:  0 1px 1.5px,
+                    1px 1px 2px;
+}
+.nav-link{
+    color: black;
+    cursor: pointer;
+}
+
+.form-control {
+    width: 70%;
+}
